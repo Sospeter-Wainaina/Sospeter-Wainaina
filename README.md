@@ -1,9 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=Sospeter-Wainaina)
 ### Hi Folks 👋 
-am sospeter, 🌱 I’m currently learning fun stuffs to do with Artificial intelligence and the journey has been great I keep learning new things each and every day and as days pass I gain experience,. Am a Machine Learning Engineer and a Datascientist and love to extract insights from data to find patterns and create value from them.I have been creating repositories for a while and I intend to keep it up since its what motivates me...✨✨✨..⚡ Fun fact: There’s just no substitute for hard work and remember You should celebrate yourself.
-You can reach me via 📫 Linked in: https://www.linkedin.com/in/sospeter-wainaina-502450185/
-🔭 I’m currently working on DataScience and Data Analytics
-🌱 I’m currently learning NLP
+🌱 My name is Sospeter Gathungu. I am a developer , a generalist software engineer, and a passionate data scientist. I combine my knowledge of software and data science to build data driven products that can solve problems and derive insights from the customers. A considerable amount of my time is spent doing unpaid community work on things that I hope will help humanity in some way. I am a data Science East Africa Campus Lead and hope to grow the skills of potential datascientists and grow the awareness of datascience and many other topics such as blockchain which is revolutionary.
+
+Strong Languages: Solidity, Python 
+
+telescope I’m currently doing research on matters to do with blockchain, building smartcontracts on the ethereum platform. To build trustless applications especially in the FinTech
+
+speech_balloon Ask me about APIs, Software Engineering,Blockchain, Data Science and Machine Learning. 
+
+mailbox How to reach me : Email: wainainasospeterg@gmail.com, Linkedin.
 <!--
 **Sospeter-Wainaina/Sospeter-Wainaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
