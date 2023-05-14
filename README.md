@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=Sospeter-Wainaina)
 ### Hi Folks 👋 
-🌱 My name is Sospeter Gathungu. I am a developer , a generalist software engineer, and a passionate data scientist. I combine my knowledge of software and data science to build data driven products that can solve problems and derive insights from the customers. A considerable amount of my time is spent doing unpaid community work on things that I hope will help humanity in some way. I am a data Science East Africa Campus Lead and hope to grow the skills of potential datascientists and grow the awareness of datascience and many other topics such as blockchain which is revolutionary.
+🌱 My name is Sospeter Wainaina. I am a developer , a generalist software engineer, and a passionate data scientist. I combine my knowledge of software and data science to build data driven products that can solve problems and derive insights from the customers. A considerable amount of my time is spent doing unpaid community work on things that I hope will help humanity in some way. I am a data Science East Africa Campus Lead and hope to grow the skills of potential datascientists and grow the awareness of datascience and many other topics such as blockchain which is revolutionary.
 
-Strong Languages: Solidity, Python 
+Strong Languages: SQL,Python 
 
 telescope I’m currently doing research on matters to do with blockchain, building smartcontracts on the ethereum platform. To build trustless applications especially in the FinTech
 
