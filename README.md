@@ -4,9 +4,7 @@
 
 Strong Languages: SQL,Python 
 
-telescope I’m currently doing research on matters to do with blockchain, building smartcontracts on the ethereum platform. To build trustless applications especially in the FinTech
-
-speech_balloon Ask me about APIs, Software Engineering,Blockchain, Data Science and Machine Learning. 
+Ask me about APIs, Software Engineering,Blockchain, Data Science and Machine Learning. 
 
 mailbox How to reach me : Email: wainainasospeterg@gmail.com, Linkedin.
 <!--
